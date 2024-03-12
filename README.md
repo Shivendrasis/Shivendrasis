@@ -8,11 +8,9 @@
 <div align="center">
   
  🌱 I’m currently learning **Java Fullstack Development**
-  
  <br>
 
  💬 Ask me about **Frontend and Backend**
- 
  <br>
  
  📫 How to reach me **sisodiashivendra66@gmail.com**
