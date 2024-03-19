@@ -67,12 +67,3 @@
 <a href="https://instagram.com/iamshivendrasisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshivendrasisodia" height="30" width="40" /></a>
 </p>
 
-https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg
-[![wakatime](https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg)](https://wakatime.com/badge/github/Shivendrasis/Shivendrasis)
-<a href="https://wakatime.com/badge/github/Shivendrasis/Shivendrasis"><img src="https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg" alt="wakatime"></a>
-!https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg!:https://wakatime.com/badge/github/Shivendrasis/Shivendrasis
-{<img src="https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg" alt="wakatime" />}[https://wakatime.com/badge/github/Shivendrasis/Shivendrasis]
-image:https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg["wakatime", link="https://wakatime.com/badge/github/Shivendrasis/Shivendrasis"]
-.. image:: https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg
-    :target: https://wakatime.com/badge/github/Shivendrasis/Shivendrasis
-=for html <a href="https://wakatime.com/badge/github/Shivendrasis/Shivendrasis"><img src="https://wakatime.com/badge/github/Shivendrasis/Shivendrasis.svg"></a>
