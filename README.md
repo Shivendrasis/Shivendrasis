@@ -33,23 +33,27 @@
 
 <hr>
 
-<h3 align="center">Github Stats:</h3>
+<h3 align="center">Wakatime Stats:</h3>
+
 
 <hr>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivendrasis&show_icons=true&theme=buefy">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivendrasis&show_icons=true&locale=en&layout=compact" alt="shivendrasis" /></p>
+</div>
+<hr>
+
+<h3 align="center">Github Stats:</h3>
+
+<hr />
+<p>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivendrasis&show_icons=true&locale=en&layout=compact" alt="shivendrasis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendrasis&show_icons=true&locale=en" alt="shivendrasis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendrasis&" alt="shivendrasis" /></p>
 
-</div>
-<hr>
 
-<h3 align="center">Wakatime Stats:</h3>
-<hr />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivendrasis&show_icons=true&theme=buefy">
 </p>
 
 
