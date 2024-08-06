@@ -19,11 +19,10 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivendrasis" alt="shivendrasis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=shivendrasis" alt="shivendrasis" /></a> </p>
 
-<hr>
 
-<div align="center">
+</div>
 </p>
 
 
@@ -36,8 +35,9 @@
 <h3 align="center">Wakatime Stats:</h3>
 
 
-<hr>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivendrasis&show_icons=true&theme=buefy">
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivendrasis&show_icons=true&theme=buefy"></p>
+                                                                                                                      
 
 </div>
 <hr>
