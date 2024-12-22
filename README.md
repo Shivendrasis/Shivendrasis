@@ -28,6 +28,28 @@
 
 <hr>
 
+<div align="">
+
+## About Me  
+- Proficient Java Developer with a strong grasp of object-oriented programming and backend development.  
+- Experienced in building software applications using Spring Framework and Spring Boot.  
+- Adept at solving complex problems through Data Structures and Algorithms.  
+- Passionate about developing efficient and scalable solutions.  
+
+## Skills  
+- **Programming Languages**: Java, C, C++, JavaScript  
+- **Frameworks**: Spring Framework, Spring Boot  
+- **Databases**: MySQL, MariaDB  
+- **Development Tools**: IntelliJ IDEA, Eclipse, Maven, Gradle, Git, GitHub  
+- **Architectures**: MVC, Client-server  
+- **Other Expertise**: JDBC, Hibernate, Networking in Java, REST APIs, DSA concepts,   
+- **Soft Skills**: Teamwork, Logical Thinking, Debugging, and Code Optimization  
+
+
+</div>
+
+<hr>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=shivendrasis" alt="shivendrasis" /></a> </p>
 
 
